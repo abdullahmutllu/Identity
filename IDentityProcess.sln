@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDentityProcess", "IDentityProcess\IDentityProcess.csproj", "{65B132C0-72D0-4880-AC61-1D7996760697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B132C0-72D0-4880-AC61-1D7996760697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B132C0-72D0-4880-AC61-1D7996760697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B132C0-72D0-4880-AC61-1D7996760697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B132C0-72D0-4880-AC61-1D7996760697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5EDAB8-84BE-42D2-B02E-4669C74D35BA}
+	EndGlobalSection
+EndGlobal
